@@ -25,5 +25,12 @@ This application is provided **for informational and monitoring purposes only**.
 It does **not** modify router settings.  
 The author assumes **no responsibility** for any issues or damages arising from its use.
 
+## 💖 Support / Donate
+If you find this application useful and would like to support its development, you can make a contribution via PayPal:
+
+[Donate Here](https://www.paypal.com/paypalme/948d)
+
+Your support helps improve the app and add new features. Thank you!
+
 ## 📝 License
 This project is licensed under the [MIT License](./LICENSE).
